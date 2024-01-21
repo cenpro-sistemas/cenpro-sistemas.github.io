@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Configurar Windows Update"
+title:  "Configurar Windows para actualizar desde WSUS"
 date:   2024-01-20 19:47:44 -0500
 categories: windows
 ---
