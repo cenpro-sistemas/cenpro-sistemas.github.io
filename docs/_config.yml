@@ -27,7 +27,7 @@ github_username:  cenpro-sistemas
 # Build settings
 markdown: kramdown
 # theme: minima
-theme: pages-themes/hacker@v0.2.0
+theme: hacker
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
